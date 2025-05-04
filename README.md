@@ -37,25 +37,25 @@ This project is an **HR Analytics dashboard** developed in **Power BI** for a fi
 
 ### 1. **Overview Dashboard**  
 Snapshot of total employees, hiring trends, and department distribution  
-![Overview](overview.png)
+![Overview](overview_dashboard.png)
 
 ---
 
 ### 2. **Demographics Dashboard**  
 Breakdown of age, gender, marital status, and ethnicity  
-![Demographics](demographics.png)
+![Demographics](demographics_dashboard.png)
 
 ---
 
 ### 3. **Performance Tracker**  
 Tracks employee performance and satisfaction across departments  
-![Performance Tracker](performance_tracker.png)
+![Performance Tracker](performance_dashboard.png)
 
 ---
 
 ### 4. **Attrition Dashboard**  
 Analyzes employee attrition trends, travel frequency, and attrition rates by category  
-![Attrition](attrition.png)
+![Attrition](attrition_dashboard.png)
 
 ---
 
